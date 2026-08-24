@@ -33,3 +33,5 @@ logs/
 
 # Claude Code local config
 .claude/
+.idea/
+target/
